@@ -4,3 +4,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github-chatroom407:chatroom407/clientAndroid.git
 git push -u origin main
+
+git add .
+git commit -m "Frame"
+git branch -M main
+git remote add origin git@github-chatroom407:chatroom407/clientAndroid.git
+git push -u origin main
